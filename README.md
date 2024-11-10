@@ -7,6 +7,7 @@
 
 ## [문제]
 
-|    |                                                                  문제                                                                   |
-|----|:-------------------------------------------------------------------------------------------------------------------------------------:|
+|     |                                                                  문제                                                                   |
+|-----|:-------------------------------------------------------------------------------------------------------------------------------------:|
 | 1주차 | [88. Merge Sorted Array](https://leetcode.com/problems/merge-sorted-array/description/?envType=study-plan-v2&envId=top-interview-150) |
+| 2주차 | [125. Valid Palindrome](https://leetcode.com/problems/valid-palindrome/description/?envType=study-plan-v2&envId=top-interview-150) |
