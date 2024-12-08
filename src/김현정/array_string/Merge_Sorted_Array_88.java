@@ -1,4 +1,4 @@
-package src.김현정.Array_String;
+package 김현정.array_string;
 
 import java.util.*;
 
